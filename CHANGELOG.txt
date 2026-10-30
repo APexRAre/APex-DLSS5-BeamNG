@@ -1,0 +1,12 @@
+APex DLSS 5 — CHANGELOG
+
+Version 2.0 — 2026
+- Updated custom graphics configuration.
+- Adjusted visual settings.
+- Refined lighting and overall image appearance.
+
+Version 1.0 — Previous release
+- Initial custom DLSS 5 preset configuration.
+
+Author: APex
+Project: BeamNG.drive
