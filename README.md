@@ -48,9 +48,13 @@ The goal of this project is to improve the visual realism of BeamNG.drive throug
 
 **Performance notice:** DLSS 5 may significantly reduce FPS and increase VRAM usage. Performance and stability depend on your hardware and settings.
 
-## Installation
+## Download
 
-See the installation guide included with the release.
+The preset and installation guide are available on the official APex_Sector Telegram channel.
+
+**[DOWNLOAD — APex DLSS 5 v2](https://t.me/APex_Sector)**
+
+Only download the preset from the official source.
 
 ## Version History
 
