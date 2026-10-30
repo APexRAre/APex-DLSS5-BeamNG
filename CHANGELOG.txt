@@ -1,6 +1,6 @@
 APex DLSS 5 — CHANGELOG
 
-Version 2.0 — 2026
+Version 2.0 — 31.10.2026
 - Updated custom graphics configuration.
 - Adjusted visual settings.
 - Refined lighting and overall image appearance.
