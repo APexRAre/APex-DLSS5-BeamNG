@@ -21,7 +21,7 @@ USAGE CONDITIONS:
 - Do not redistribute this preset as your own work or remove its author attribution.
 
 Official source: APex_Sector
-GitHub: https://github.com/YOUR_USERNAME/APex-DLSS5-BeamNG
+GitHub: https://github.com/APexRAre/APex-DLSS5-BeamNG
 
 ================================
 РУССКИЙ
