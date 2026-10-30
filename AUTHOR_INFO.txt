@@ -3,46 +3,42 @@ APex — DLSS 5 PRESET
 Author: APex
 Project: BeamNG.drive DLSS 5
 Version: 2.0
-Created: 2026
+Year: 2026
 
-━━━━━━━━━━━━━━━━━━━━
+================================
+ENGLISH
+================================
 
-🇬🇧 ENGLISH
+This preset is an original graphics configuration developed and configured by APex for BeamNG.drive.
 
+AUTHORSHIP:
 Created and configured by APex.
 
-This preset is an original configuration developed by APex for BeamNG.drive.
-
-© 2026 APex. All rights reserved.
-
-PERMISSIONS:
+USAGE CONDITIONS:
 - Personal use is allowed.
-- Redistribution or re-uploading without the author's permission is not allowed.
-- Claiming this preset as your own work is not allowed.
-- Publishing modified versions without credit to the original author is not allowed.
-- Selling or distributing this preset as your own product is prohibited.
+- Do not claim this preset as your own work.
+- When sharing or showcasing this preset, credit the original author.
+- Do not redistribute this preset as your own work or remove its author attribution.
 
-If you share this preset, please credit the original creator: APex.
+Official source: APex_Sector
+GitHub: https://github.com/YOUR_USERNAME/APex-DLSS5-BeamNG
 
-Official source: t.me/APex_Sector
+================================
+РУССКИЙ
+================================
 
-━━━━━━━━━━━━━━━━━━━━
+Этот пресет является авторской графической конфигурацией, разработанной и настроенной APex для BeamNG.drive.
 
-🇷🇺 РУССКИЙ
-
-Автор: APex.
-
-Этот пресет является авторской конфигурацией, разработанной и настроенной APex для BeamNG.drive.
-
-© 2026 APex. Все права защищены.
+АВТОРСТВО:
+Создано и настроено APex.
 
 УСЛОВИЯ ИСПОЛЬЗОВАНИЯ:
 - Личное использование разрешено.
-- Повторная публикация и распространение без разрешения автора запрещены.
-- Выдавать данный пресет за собственную работу запрещено.
-- Публикация изменённых версий без указания первоначального автора запрещена.
-- Продажа или распространение пресета под собственным именем запрещены.
-
-При распространении или демонстрации пресета необходимо указывать первоначального автора — APex.
+- Запрещено выдавать данный пресет за собственную работу.
+- При распространении или демонстрации необходимо указывать первоначального автора.
+- Запрещено распространять пресет под собственным именем или удалять указание авторства.
 
 Официальный источник: t.me/APex_Sector
+GitHub: https://github.com/APexRAre/APex-DLSS5-BeamNG
+
+© 2026 APex. All rights reserved.
